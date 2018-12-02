@@ -1,0 +1,42 @@
+{
+    "name": "ngi-extension-pack",
+    "displayName": "Angular VS Code Extension Pack",
+    "description": "All of my favorite extensions for Angular development",
+    "icon": "images/angular-shield.png",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ivan-rozhon/ngi-extension-pack"
+    },
+    "keywords": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS"
+    ],
+    "extensionPack": [
+        "aaron-bond.better-comments",
+        "Angular.ng-template",
+        "christian-kohler.path-intellisense",
+        "eamodio.gitlens",
+        "eg2.tslint",
+        "eg2.vscode-npm-script",
+        "esbenp.prettier-vscode",
+        "infinity1207.angular2-switcher",
+        "jasonlhy.hungry-delete",
+        "johnpapa.Angular2",
+        "msjsdiag.debugger-for-chrome",
+        "natewallace.angular2-inline",
+        "shinnn.stylelint",
+        "steoates.autoimport",
+        "tombonnike.vscode-status-bar-format-toggle",
+        "whtouche.vscode-js-console-utils",
+        "wmaurer.vscode-jumpy"
+    ]
+}
