@@ -3,7 +3,7 @@
     "displayName": "Angular VS Code Extension Pack",
     "description": "All of my favorite extensions for Angular development",
     "icon": "images/angular-shield.png",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.29.0"
     },
