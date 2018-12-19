@@ -23,6 +23,10 @@ I've been inspired by John's Papa [Angular Essentials - Extension Pack for VS Co
     "editor.formatOnSave": false,
     "editor.formatOnPaste": false
   },
+  // recommended by stylelint extension
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
 ```
 
 ### File settings
